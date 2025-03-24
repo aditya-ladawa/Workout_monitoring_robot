@@ -48,7 +48,7 @@ For questions or collaborations, please contact:
 
 ## Project Repository
 [https://github.com/aditya-ladawa/workout-monitoring-robot]
-(https://github.com/your-username/workout-monitoring-robot)
+(https://github.com/aditya-ladawa/workout-monitoring-robot)
 
 Thank you for your interest in the **Workout Monitoring Robot**! We hope this project contributes to advancing fitness technology and improving health and well-being worldwide. 🚀
 
